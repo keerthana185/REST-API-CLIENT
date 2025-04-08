@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTHOSH
 
-##This Java program enables users to perform basic file operations interactively. It allows writing user-provided text to a file, reading and displaying the content, and modifying specific words based on user input. The program uses Scanner for input handling and BufferedReader/BufferedWriter for file operations. It ensures efficient manipulation of text files with proper exception handling. Users can enter content, specify words to replace, and view updates dynamically. The implementation follows a structured approach with modular methods for writing, reading, and modifying files, making it a practical example of file handling in Java. 
+##The Rest API Client task involves creating a Java application that interacts with a RESTful web service to fetch real-time weather data. Using Java's built-in `HttpClient`, the client sends an HTTP GET request to the Open-Meteo API, which returns a JSON response containing current weather conditions for a specific location. The response is parsed using the `org.json` library to extract and display key weather details such as temperature, wind speed, and timestamp. This task demonstrates practical implementation of HTTP communication, JSON parsing, and integration of third-party APIs in Java, making it a foundational exercise in modern web-based application development.
 
-*OUTPUT*:
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/8df60efd-9900-4b26-a20f-c6b8f01543dd)
 
